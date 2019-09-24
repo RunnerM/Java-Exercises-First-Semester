@@ -15,6 +15,7 @@ public class Circle {
         return centerPoint;
     }
     public double getArea(){
-        return
+        return 0;
+        //TODO: correct this
     }
 }
